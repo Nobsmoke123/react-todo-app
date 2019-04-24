@@ -1,0 +1,31 @@
+/**
+Styles for the filter buttons
+*/
+
+.filter-btns {
+    background-color: #2196f3;
+    color: #fff;
+    letter-spacing: 2px;
+    height: 28px;
+    margin-left: 5px;
+    margin-top: 10px;
+    outline: none;
+    padding: 10px 10px;
+    height: 38px;
+    border: 1px solid #2196f3;
+    font-weight: 700;
+    width: 8.0001rem;
+}
+
+.filter-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Add a hover effect to the filter buttons */
+
+.filter-btns:hover {
+    background: #fff;
+    color: #2196f3;
+}
