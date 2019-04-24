@@ -70,7 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # React-Todo-App
 This project is a basic react app that shows the basic **CRUD** operations which are create, read, update and delete. 
 The Todo-App also contains extra features such as filters to filter tasks with **Active**, **Completed** and **All**.
-The project's front-end is designed using bootstrap 4
+The project's front-end is designed using bootstrap 4!
 
 ## Possible Modifications To React-Todo-App
-The project currently does not have any persistent storage feature installed . so that could be an area to build upon . 
+The project currently does not have any persistent storage feature installed, so that could be an area to build upon . 
